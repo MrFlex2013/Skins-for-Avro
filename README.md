@@ -9,3 +9,5 @@
 **Rosé Pine Dawn**
 
 [<img src=".assets/gif/Rose Pine Dawn.gif">](https://github.com/rahaaatul/Skins-for-Avro/blob/main/Ros%C3%A9%20Pine/Ros%C3%A9%20Pine%20Dawn%20Mini.avroskin)
+
+**All credits goes to the original creator https://github.com/rahaaatul**
